@@ -17,4 +17,5 @@ the "Deliver" stage of your Pipeline.
 Manual Add to README on 3rd June for Test
 2nd Manual entry on 3rd june
 
+6th June Read me updated
 test
